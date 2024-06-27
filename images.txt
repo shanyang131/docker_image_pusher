@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #langgenius/dify-api:0.6.11
-nginx:latest
+#nginx:latest
+python:alpine3.19
